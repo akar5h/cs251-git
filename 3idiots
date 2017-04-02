@@ -1,0 +1,11 @@
+\documentclass[a4paper]{article}
+
+\title{Movie Review}
+\author{Sourish,Akarsh,Megha}
+\date{2 April 2017}
+
+\begin{document}
+
+\maketitle
+
+\end{document}
